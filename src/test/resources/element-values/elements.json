@@ -1,0 +1,388 @@
+[
+  {
+    "key": "izinbutonu",
+    "androidValue":"com.android.permissioncontroller:id/continue_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "kabulbutonu",
+    "androidValue":"android:id/button1",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "apidemosbaslamakontrolu",
+    "androidValue":"'//*[@text='API Demos']'",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AppButonu",
+    "androidValue": "//*[@resource-id='android:id/text1'][3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+  "key": "ActionBarButonu",
+  "androidValue": "//*[@resource-id='android:id/text1'][1]",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+  },
+  {
+    "key": "actionBarTabsButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "toggleTabModePassive",
+    "androidValue": "//*[@text='App/Action Bar/Action Bar Tabs']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "addNewTab",
+    "androidValue": "com.hmh.api:id/btn_add_tab",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "toggleTabModeButton",
+    "androidValue": "com.hmh.api:id/btn_toggle_tabs",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "tab0Kontoller",
+    "androidValue": "//*[@text='TAB 0']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "tab1Kontoller",
+    "androidValue": "//*[@text='TAB 1']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "tab2Kontoller",
+    "androidValue": "//*[@text='TAB 2']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "RemoveLastTabButton",
+    "androidValue": "com.hmh.api:id/btn_remove_tab",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "RemoveAllTabsButton",
+    "androidValue": "com.hmh.api:id/btn_remove_all_tabs",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "ActivityButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "CustomTitleButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "rightNavigationBar",
+    "androidValue": "com.hmh.api:id/right_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "leftNavigationBar",
+    "androidValue": "com.hmh.api:id/left_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "leftTextBox",
+    "androidValue": "com.hmh.api:id/left_text_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "rightTextBox",
+    "androidValue": "com.hmh.api:id/right_text_edit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "changeLeftButton",
+    "androidValue": "com.hmh.api:id/left_text_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "changeRightButton",
+    "androidValue": "com.hmh.api:id/right_text_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "alertDialogsButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][4]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "listDialogButton",
+    "androidValue": "com.hmh.api:id/select_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "listDialogRandomSec",
+    "androidValue": "//*[@resource-id='android:id/text1']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "secimSirasiVeAdi",
+    "androidValue": "android:id/message",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "devicesAdminButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][5]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "generalButton",
+    "androidValue": "//*[@resource-id='android:id/title'][1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "enableAdminCheckBox",
+    "androidValue": "android:id/checkbox",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "fragmentButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][6]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "contextMenuButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][3]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "longPressMeButton",
+    "androidValue": "com.hmh.api:id/long_press",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "menuAButton",
+    "androidValue": "//*[@text='Menu A']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "menuBButton",
+    "androidValue": "//*[@text='Menu B']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "hideAndShowButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][7]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "hideOrShowButton1",
+    "androidValue": "com.hmh.api:id/frag1hide",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "hideOrShowButton2",
+    "androidValue": "com.hmh.api:id/frag2hide",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+    "key": "hideOrShowText1",
+    "androidValue": "(//*[@resource-id='com.hmh.api:id/saved'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "hideOrShowText2",
+    "androidValue": "(//*[@resource-id='com.hmh.api:id/saved'])[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "wiewsButonu",
+    "androidValue": "(//*[@resource-id='android:id/text1'])[11]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "tabsButton",
+    "androidValue": "//*[@text='Tabs']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "controlsButton",
+    "androidValue": "(//*[@resource-id='android:id/text1'])[5]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "scrollableButton",
+    "androidValue": "(//*[@resource-id='android:id/text1'])[5]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+  "key": "tab3",
+  "androidValue": "//*[@text='TAB 3']",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "tab30",
+  "androidValue": "//*[@text='TAB 30']",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+},
+  {
+  "key": "tab30SafyaKontrol",
+  "androidValue": "//*[@text='Content for tab with tag Tab 30']",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": ""
+  },
+  {
+    "key": "notificationButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][10]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "IncomingMessageButton",
+    "androidValue": "//*[@resource-id='android:id/text1'][1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "showNotificationButton",
+    "androidValue": "com.hmh.api:id/notify",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "bildirimButton",
+    "androidValue": "//*[@text='kthx. meet u for dinner. cul8r']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "acilanBildirimEkraniText",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "enableAdminOnay",
+    "androidValue": "com.android.settings:id/action_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "enableAdminOnayKontrol",
+    "androidValue": "//*[@resource-id=android:id/checkbox'][1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+

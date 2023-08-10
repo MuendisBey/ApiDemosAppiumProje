@@ -1,0 +1,197 @@
+Created by testinium on 8.08.2023
+
+This is a concept file with following syntax for each concept.
+# App'e tiklanilir
+* "AppButonu" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "AppButonu"
+
+# Action Bar'a tiklanilir
+* "ActionBarButonu" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "ActionBarButonu"
+
+# Action Bar Tabs tiklanilir
+* "actionBarTabsButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "actionBarTabsButton"
+
+# Toggle Top Mod Kontrol
+* "toggleTabModePassive" elementi var mı
+
+# 3 Yeni Tab Açılır
+* "addNewTab" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "addNewTab"
+* Elementine tıkla "addNewTab"
+* Elementine tıkla "addNewTab"
+
+# 3 Yeni Tab Açılma Kontrolü
+* "toggleTabModeButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "toggleTabModeButton"
+* "tab0Kontoller" elementi var mı
+* "tab1Kontoller" elementi var mı
+* "tab2Kontoller" elementi var mı
+
+# Son Tabı Sil ve Kontrol Et
+* "RemoveLastTabButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "RemoveLastTabButton"
+* "tab0Kontoller" elementi var mı
+* "tab1Kontoller" elementi var mı
+* Element yok mu kontrol et "tab2Kontoller"
+
+# Tüm Tabları Sil ve Kontrol Et
+* "RemoveAllTabsButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "RemoveAllTabsButton"
+* Element yok mu kontrol et "tab0Kontoller"
+* Element yok mu kontrol et "tab1Kontoller"
+
+
+# Activity'e tiklanilir
+* "ActivityButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "ActivityButton"
+
+# Custom Title'a tiklanilir
+* "CustomTitleButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "CustomTitleButton"
+
+# Custom Title Ekranindaki Textbox ve Navigation Bar Alanlarini Kontrol Et
+* "rightNavigationBar" elementinin "Right is always right" textini içerdiği kontrol edilir
+* "leftNavigationBar" elementinin "Left is best" textini içerdiği kontrol edilir
+* "leftTextBox" elementinin "Left is best" textini içerdiği kontrol edilir
+* "rightTextBox" elementinin "Right is always right" textini içerdiği kontrol edilir
+
+# Custom Title Ekranindaki Textbox ve Navigation Bar Alanlarini Degistirerek Kontrol Et
+* "leftTextBox" li elementi bul, temizle ve "left textbox" değerini yaz
+* Elementine tıkla "changeLeftButton"
+* "leftTextBox" elementinin "left textbox" textini içerdiği kontrol edilir
+* Wait "2" seconds
+* "rightTextBox" li elementi bul, temizle ve "right textbox" değerini yaz
+* Elementine tıkla "changeRightButton"
+* "rightTextBox" elementinin "right textbox" textini içerdiği kontrol edilir
+* Wait "2" seconds
+* "leftNavigationBar" elementinin "left textbox" textini içerdiği kontrol edilir
+* "rightNavigationBar" elementinin "right textbox" textini içerdiği kontrol edilir
+
+# Alert Dialogs'a tiklanilir
+* "alertDialogsButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "alertDialogsButton"
+
+# List Dialog'a tiklanilir
+* "listDialogButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "listDialogButton"
+
+# Herhangi bir elemente tikla ve siralamasini ve adini kontrol et
+* "listDialogRandomSec" li elementi rasgele sec
+* "secimSirasiVeAdi" elementinin text degerini yazdir
+
+# Device Admin'e tiklanilir
+* "devicesAdminButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "devicesAdminButton"
+
+# General'e tiklanilir
+* "generalButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "generalButton"
+
+# Enable Admin'e tiklanilir
+* "enableAdminCheckBox" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "enableAdminCheckBox"
+
+# Gelen Ekranda Onaylama Yapilir
+* "enableAdminOnay" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "enableAdminOnay"
+
+# Radio Butonunun Aktif Oldugunu Kontrol Et
+*"enableAdminOnayKontrol" elementinin görünürlüğü kontrol edilir
+
+# Fragment'e tiklanilir
+* "fragmentButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "fragmentButton"
+
+#Context Menu'ye tiklanilir
+* "contextMenuButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "contextMenuButton"
+
+# Long Press Me Button'a Uzun Basilir
+* "longPressMeButton" elementinin görünürlüğü kontrol edilir
+* "longPressMeButton" li elementi bul basılı tut
+
+# Menu A ve Menu B Acilmasını Kontrol Et
+* "menuAButton" elementinin görünürlüğü kontrol edilir
+* "menuBButton" elementinin görünürlüğü kontrol edilir
+
+# Hide and Show'a tiklanilir
+* "hideAndShowButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "hideAndShowButton"
+
+# Hide and Show Ekranindaki Textbox ve Buton Alanlarini Kontrol Et
+* "hideOrShowButton1" elementinin text degerini yazdir
+* "hideOrShowButton2" elementinin text degerini yazdir
+* "hideOrShowText1" elementinin "Initial text." textini içerdiği kontrol edilir
+* "hideOrShowText2" elementinin "Initial text." textini içerdiği kontrol edilir
+
+#Hide Butonlarina tiklanıldiginda Textlerin gizlendigini ve Butonlarin Show olduğunu Kontol Et
+* "hideOrShowButton1" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "hideOrShowButton1"
+* "hideOrShowButton2" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "hideOrShowButton2"
+* Element yok mu kontrol et "hideOrShowText1"
+* Element yok mu kontrol et "hideOrShowText2"
+* "hideOrShowButton1" elementinin text degerini yazdir
+* "hideOrShowButton2" elementinin text degerini yazdir
+
+# Show Butonlarina tiklanıldiginda Textlerin geri geldigini ve Butonlarin tekrar Hide olduğunu Kontol Et
+* "hideOrShowButton1" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "hideOrShowButton1"
+* "hideOrShowButton2" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "hideOrShowButton2"
+* "hideOrShowText1" elementinin görünürlüğü kontrol edilir
+* "hideOrShowText2" elementinin görünürlüğü kontrol edilir
+* "hideOrShowButton1" elementinin text degerini yazdir
+* "hideOrShowButton2" elementinin text degerini yazdir
+
+# Wiews'e tiklanilir
+* "wiewsButonu" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "wiewsButonu"
+
+# Tabs'a tiklanilir
+* "tabsButton"li elementi bulana kadar "3" kere swipe yap ve elementi bul
+* "tabsButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "tabsButton"
+
+
+# Scrollable'ye tiklanilir
+* "scrollableButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "scrollableButton"
+
+#  Saga Kaydir Tab30 a tikla ve Sayfa Kontrol Et
+* "tab3" elementinin hizasından sağdan sola "5" kere kaydır
+* "tab30" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "tab30"
+* "tab30SafyaKontrol" elementinin text degerini yazdir
+
+# Notification'a tiklanilir
+* "notificationButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "notificationButton"
+
+#IncomingMessage'a tiklanilir
+* "IncomingMessageButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "IncomingMessageButton"
+
+# Show Notification'a tiklanilir
+* "showNotificationButton" elementinin görünürlüğü kontrol edilir
+* Elementine tıkla "showNotificationButton"
+* Wait "5" seconds
+
+# Bildirim Paneli Asagi Çekilir
+* "0","0" coordinatından "0","2000" coordinatına "1" kere swipe et
+
+# Bildirim Kontrolu Yapilir ve tiklanilir
+* "bildirimButton" elementinin görünürlüğü kontrol edilir
+* "bildirimButton" elementinin text degerinde "bildirimkayit" ismiyle hafizaya kaydet
+* Elementine tıkla "bildirimButton"
+
+# Bildirim Textini Acilan Ekran Iceriyor mu Kontrol Et
+* "acilanBildirimEkraniText" elementinin text degerini yazdir
+* "bildirimkayit" degeriyle hafizada saklanan text degeri "acilanBildirimEkraniText" elementinin text degerini icerdigi kontrol edilir
+
+
+
+
+
